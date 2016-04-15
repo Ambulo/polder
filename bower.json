@@ -1,0 +1,22 @@
+{
+  "name": "Accounts",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ambulo"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "directory": "vendor/bower_components",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6"
+  }
+}
